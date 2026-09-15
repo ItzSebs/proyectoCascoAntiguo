@@ -1,0 +1,372 @@
+Descripción del Proyecto
+
+La información sobre eventos que se realizan en el Casco Antiguo de la Ciudad de Panamá no está bien centralizada, las personas lejos del área se enteran por medio de publicaciones en las redes, carteles físicos alrededor del Casco, volantes o algún grupo de Whatsapp. Esta falta de centralización de la información conlleva a: 
+
+•	La pérdida de actividades de interés por simple desconocimiento
+•	Los organizadores no tienen un lugar donde puedan promocionar sus eventos para alcanzar una mayor audiencia
+•	Se desaprovecha el potencial cultural y turístico del área
+
+Para el Casco Antiguo, no existe una herramienta digital que reúna toda esta información de eventos y actividades prontas a realizarse con su demanda real.
+
+
+
+Propósito  
+
+Crear una plataforma web centralizada y especializada que funcione como un punto de referencia oficial para descubrir, publicar y gestionar eventos y actividades en el Casco Antiguo, impulsando la vida cultural, el turismo y el comercio local de esta zona.
+
+El propósito último es fortalecer la identidad cultural del Casco Antiguo y dinamizar su ecosistema económico mediante la tecnología, facilitando que tanto locales como turistas encuentren con facilidad que hacer, donde y cuando.
+
+
+Objetivo General
+
+Desarrollar una plataforma web que centralice la publicación, consulta y gestión de eventos y actividades del Casco Antiguo, conectando de forma eficiente a organizadores, comercios locales, residentes y visitantes, y contribuyendo a la promoción cultural y económica de la zona.
+
+
+
+Alcance
+
+Como primera fase:
+
+•	Es un sitio web disponible para escritorio, Tablet y móvil
+•	Registro e inicio de sesión de usuarios con roles: visitante y organizador
+•	Panel de administración para gestión de eventos y usuarios
+•	Un listado de eventos
+•	Filtro de búsqueda por categoría, por fecha y por precio
+•	Un mapa de los eventos en el Casco Antiguo
+•	Ficha detallada por evento (descripción, fecha, lugar, precio, imágenes, contacto)
+•	Diseño con identidad visual con temática del Casco Antiguo
+•	Soporte para español e ingles
+
+Funcionalidades Principales
+
+Para visitantes sin registro:
+
+•	Pagina de Inicio con eventos destacados
+•	Buscador con filtros.
+•	Calendario mensual
+•	Mapa interactivo del Casco 
+•	Ficha detallada de cada evento
+•	Perfil para organizadores y comercios
+
+Para usuarios registrados:
+
+•	Guardar eventos 
+•	Recibir recomendaciones al correo
+•	Compartir eventos en redes sociales
+
+Para Organizadores:
+
+•	Crear, editar y cancelar eventos
+•	Subir imágenes y material promocional
+•	Gestionar el perfil del organizador
+•	Visualizar estadísticas básicas de sus eventos
+
+
+
+Para Administrador:
+
+•	Moderación y aprobación de eventos publicados
+•	Gestion de usuarios, roles y categorías
+•	Gestion de contenido institucional (noticias)
+•	Reportes generales de la plataforma
+
+
+
+Algunas funcionalidades transversales:
+
+•	Búsqueda avanzada con varios criterios que se combinan
+•	Mapas integrados
+•	Notificaciones en la plataforma
+•	Diseño accesible para telefono, Tablet y pc
+•	Soporte para español e ingles
+•	Panel de control diferenciado para cada rol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identificación de usuarios:
+
+
+Los usuarios de la plataforma se dividen en dos grandes grupos:
+
+
+1.	Publico General: Los que consumen la información y participan en los eventos.
+
+2.	Gestores de Contenido: Los que publican, administran y moderan la información.
+
+
+Tipos de Usuario, Características y Necesidades
+
+
+Visitante Anónimo: Es una persona que entra al sitio sin registrarse, puede ser un turista nacional o internacional. No requiere de registro previo, navegación rápida y exploratoria, puede acceder desde móvil, Tablet o pc y tiende a ser una sesión corta tipo “¿Qué hay para hoy?”
+
+Necesidades:
+•	Encontrar eventos fácilmente sin barreras de acceso.
+•	Información clara, actualizada y confiable.
+•	Ver detalles como fecha, hora, lugar, precio y cómo llegar.
+•	Descubrir actividades cercanas a su ubicación.
+•	Explorar por categorías.
+
+Funciones principales:
+•	Explorar el calendario y listado de eventos.
+•	Usar el buscador y filtros.
+•	Consultar el mapa interactivo.
+•	Ver la ficha detallada de un evento.
+•	Compartir eventos en redes sociales.
+•	Suscribirse al boletín informativo.
+•	Registrarse para acceder a funciones avanzadas.
+
+
+Usuario Registrado: Es una persona que crea una cuenta para personalizar su experiencia y dar seguimiento a los eventos de su interés. Es una cuenta de verificada con correo electrónico, puede ser local o turista, puede hacer una búsqueda personalizada e interactuar con la plataforma de forma periódica.
+
+
+Necesidades:
+•	Guardar eventos favoritos o de interés.
+•	Recibir recomendaciones según sus gustos.
+•	Recibir notificaciones o recordatorios de eventos próximos.
+•	Tener un historial de eventos consultados o asistidos.
+•	Compartir y comentar actividades con su círculo.
+Funciones principales:
+•	Iniciar y cerrar sesión.
+•	Gestionar su perfil personal.
+•	Guardar y eliminar eventos favoritos.
+•	Recibir recomendaciones personalizadas.
+•	Activar notificaciones por correo o en plataforma.
+•	Compartir eventos en redes sociales.
+•	Consultar su historial de actividad.
+•	Suscribirse o darse de baja del boletín.
+
+
+Organizadores de Eventos: Persona jurídica que promueve eventos en el Casco Antiguo: artistas, galerías, productores culturales, promotores independientes, teatros, hoteles y restaurantes con actividades especiales. Este requiere registro y validación por parte del administrador, puede manejar uno o varios eventos simultáneos, necesita alcance de audiencia, puede no tener conocimientos avanzados y busca herramientas simples para publicar y medir.
+
+Necesidades:
+•	Publicar eventos de forma ágil e intuitiva.
+•	Editar o cancelar eventos cuando sea necesario.
+•	Promocionar sus actividades ante una audiencia especializada.
+•	Conocer el impacto de sus publicaciones (visitas, favoritos, compartidos).
+•	Gestionar su identidad como organizador dentro de la plataforma.
+Funciones principales:
+•	Crear, editar y cancelar eventos.
+•	Subir imágenes y material promocional.
+•	Definir categoría, fecha, hora, ubicación, precio y descripción.
+•	Administrar su perfil público como organizador.
+•	Consultar estadísticas básicas de sus eventos.
+•	Recibir notificaciones sobre aprobación o rechazo de publicaciones.
+•	Responder consultas del público (según se defina en fases futuras).
+
+Administrador de la Plataforma: Responsable de la operación, moderación y funcionamiento de la plataforma. Tiene acceso total al sistema, es responsable de la calidad y veracidad del contenido y toma decisiones sobre aprobaciones y políticas de la pagina.
+
+Necesidades:
+•	Controlar la calidad y coherencia del contenido publicado.
+•	Aprobar o rechazar eventos y perfiles.
+•	Gestionar usuarios, roles y permisos.
+•	Supervisar el funcionamiento general del sitio.
+•	Obtener información consolidada para la toma de decisiones.
+Funciones principales:
+•	Aprobar, editar o eliminar eventos.
+•	Gestionar usuarios (crear, suspender, eliminar).
+•	Administrar categorías, etiquetas y contenidos institucionales.
+•	Moderar comentarios o publicaciones (según se defina).
+•	Gestionar el blog, noticias y contenido editorial.
+•	Consultar reportes y métricas generales.
+•	Configurar parámetros del sistema.
+
+
+Requisitos Funcionales
+
+RF-01	El sistema debe permitir a los administradores gestionar (crear, editar, suspender, eliminar) cuentas de organizadores.
+RF-02	El sistema debe permitir a los organizadores editar su perfil (nombre, logo, descripción, datos de contacto).
+RF-03	El sistema debe permitir la recuperación de contraseña vía correo electrónico.
+RF-04	El sistema debe permitir a los organizadores crear eventos con: título, descripción, categoría, fecha(s), horario de inicio y fin, ubicación dentro del Casco Antiguo, imágenes del lugar e información de contacto.
+RF-05	El sistema debe permitir editar, actualizar y desactivar eventos existentes.
+RF-06	El sistema debe permitir clasificar los eventos por categoría (cultural, gastronómico, histórico, musical, artístico, religioso, turístico, etc.).
+RF-07	El sistema debe permitir marcar un evento como "todo el día" cuando no se especifique una hora de inicio o fin.
+RF-08	El sistema debe permitir definir eventos de uno o varios días.
+RF-09	El sistema debe permitir asociar múltiples imágenes del lugar donde se realizará el evento.
+RF-10	El sistema debe permitir registrar la ubicación exacta del evento dentro del Casco Antiguo (dirección, coordenadas).
+RF-11	El sistema debe mostrar únicamente los eventos activos (no finalizados ni cancelados) en la vista pública.
+RF-12	El sistema debe actualizar automáticamente el estado del evento (activo/finalizado) según su fecha y hora de finalización.
+RF-13	El sistema debe listar todos los eventos activos del Casco Antiguo en la página principal.
+RF-14	El sistema debe mostrar en cada tarjeta de evento: título, imagen principal, fecha, categoría y ubicación.
+RF-15	El sistema debe permitir filtrar eventos por categoría, fecha y ubicación dentro del Casco Antiguo.
+RF-16	El sistema debe permitir ordenar los eventos por fecha, nombre.
+RF-17	Al seleccionar un evento, el sistema debe mostrar el horario de inicio y finalización del evento.
+RF-18	Si el evento no tiene una hora específica definida, el sistema debe mostrar la leyenda "Todo el día".
+RF-19	El sistema debe mostrar la fecha o rango de fechas del evento de forma clara y legible.
+RF-20	El sistema debe mostrar una galería de imágenes del lugar donde se realizará el evento.
+RF-21	El sistema debe mostrar la ubicación del evento con dirección, punto de referencia y mapa integrado (Google Maps u otro).
+RF-22	El sistema debe mostrar la descripción completa del evento, organizador y datos de contacto.
+RF-23	El sistema debe permitir compartir el evento mediante enlace o redes sociales.
+RF-24	El sistema debe indicar si el evento es de acceso libre o requiere inscripción previa (sin procesar pagos).
+RF-25	El sistema debe incluir una sección de calendario donde se visualicen los eventos según su fecha.
+RF-26	El sistema debe permitir hacer clic en un día del calendario para ver los eventos programados en esa fecha.
+RF-27	El sistema debe resaltar visualmente los días que tengan eventos activos.
+RF-28	El sistema debe permitir navegar entre meses y semanas dentro del calendario.
+RF-29	El sistema debe ofrecer un buscador general de eventos por nombre.
+RF-30	El sistema debe permitir la navegación por categorías desde el menú principal.
+RF-31	El sistema debe mostrar eventos destacados o próximos a realizarse en la parte superior de la página.
+RF-32	El sistema debe permitir a los administradores aprobar, rechazar o despublicar eventos enviados por organizadores.
+RF-33	El sistema debe permitir gestionar las categorías de eventos disponibles.
+RF-34	El sistema debe permitir gestionar los lugares o sitios emblemáticos del Casco Antiguo como ubicaciones predefinidas.
+RF-35	El sistema debe ser responsivo (móvil, tablet, escritorio).
+RF-36	El sistema debe estar disponible en español (y opcionalmente inglés, dado el contexto turístico del Casco Antiguo).
+RF-37	El sistema debe cumplir con normativas de protección de datos personales.
+RF-38	El sistema debe contar con accesibilidad básica (WCAG 2.1 nivel AA).
+
+
+
+Requisitos NO Funcionales
+
+Código	Categoría	Requisito no funcional
+RNF-01	Usabilidad	El sistema deberá presentar una interfaz clara e intuitiva, permitiendo que un usuario pueda localizar información básica de un evento, como nombre, fecha, ubicación y descripción, sin requerir conocimientos técnicos.
+RNF-02	 Adaptabilidad	La interfaz deberá adaptarse correctamente a computadoras, tabletas y teléfonos móviles, manteniendo accesibles los menús, formularios, imágenes y detalles de los eventos.
+RNF-03	Rendimiento	Las páginas principales del sistema deberán cargar en un tiempo razonable, preferiblemente no mayor a 3 segundos bajo condiciones normales de conexión y uso.
+RNF-04	Seguridad 01	Las funcionalidades administrativas deberán estar disponibles únicamente para usuarios autenticados y autorizados según su rol dentro del sistema.
+RNF-05	Seguridad 02	Las contraseñas de los usuarios no deberán almacenarse en texto plano y deberán protegerse mediante mecanismos seguros de almacenamiento y validación.
+RNF-06	Validación de datos	Los formularios para registrar o modificar eventos deberán validar los datos introducidos antes de enviarlos o almacenarlos, evitando campos obligatorios vacíos y formatos incorrectos.
+RNF-07	Compatibilidad	El sistema deberá funcionar correctamente en versiones actuales de navegadores de uso común, como Google Chrome, Mozilla Firefox y Microsoft Edge.
+RNF-08	Disponibilidad	El sistema deberá mantener disponible para los visitantes la consulta de eventos y actividades mientras el servicio se encuentre operativo, excepto durante períodos de mantenimiento programado.
+RNF-09	Accesibilidad	La interfaz deberá utilizar textos legibles, contraste adecuado y elementos identificables para facilitar la navegación a usuarios con diferentes condiciones de uso.
+RNF-10	Mantenibilidad	El código del sistema deberá organizarse de manera modular y mantener una estructura de archivos comprensible, facilitando la incorporación futura de nuevas funcionalidades o categorías de eventos.
+RNF-11	Integridad de información	El sistema deberá evitar que usuarios sin autorización modifiquen o eliminen información correspondiente a eventos y actividades registrados.
+RNF-12	Consistencia visual	Las páginas del sistema deberán mantener una estructura visual uniforme en elementos como encabezados, menús, botones, formularios, tipografía y distribución de contenido.
+
+
+Escenarios de Uso
+
+Escenario 1. Búsqueda y consulta de eventos culturales
+Usuario: Visitante sin registro (turista o residente).
+Objetivo: Encontrar actividades culturales gratuitas para el fin de semana en el Casco Antiguo.
+Contexto: El usuario accede desde su dispositivo móvil mientras planifica su visita a la zona histórica.
+Secuencia de interacción
+1.	El visitante ingresa a la página principal del sitio web.
+2.	Selecciona la sección Buscador con filtros o Calendario.
+3.	Aplica los filtros:
+a.	Categoría: Cultural
+b.	Rango de fecha: Próximo fin de semana
+c.	Precio: Acceso libre
+4.	Revisa la lista de eventos resultantes y selecciona una tarjeta de su interés.
+5.	El sistema despliega la ficha detallada del evento con descripción, imágenes, horario y mapa de ubicación interactivo.
+Resultado esperado: El usuario visualiza de forma clara la ubicación y los detalles exactos del evento deseado, sin necesidad de crear una cuenta.
+
+Escenario 2. Registro de un nuevo evento en la plataforma
+Usuario: Organizador / Comercio local.
+Objetivo: Publicar una presentación musical en vivo que se llevará a cabo en su local del Casco Antiguo.
+Contexto: El propietario del comercio desea promocionar su actividad semanal para atraer visitantes.
+Secuencia de interacción
+1.	El organizador inicia sesión con sus credenciales.
+2.	Accede a su panel de control y selecciona la opción Crear Evento.
+3.	Completa el formulario con la información solicitada:
+a.	Título
+b.	Descripción
+c.	Categoría: Musical
+d.	Fecha
+e.	Rango de horario
+f.	Ubicación exacta dentro del Casco Antiguo
+g.	Imágenes del lugar
+4.	Envía el evento para revisión.
+Resultado esperado: El evento queda registrado con estado “Pendiente de aprobación” y se genera una notificación para el panel de administración.
+
+Escenario 3. Moderación y aprobación de eventos
+Usuario: Administrador de la plataforma.
+Objetivo: Revisar y aprobar los eventos solicitados por los organizadores antes de que sean visibles al público.
+Contexto: El administrador realiza la gestión diaria para garantizar la calidad y confiabilidad del contenido ingresado.
+Secuencia de interacción
+1.	El administrador inicia sesión con credenciales correspondientes al rol administrativo.
+2.	Accede a la sección Moderación de Eventos.
+3.	Revisa la solicitud enviada por el organizador y verifica que la información sea completa, veraz y apta para su publicación.
+4.	Selecciona la opción Aprobar Evento.
+Resultado esperado: El estado del evento cambia a “Activo” y pasa a mostrarse inmediatamente en la página principal, buscador, mapa y calendario público.
+
+Escenario 4. Guardar un evento en favoritos
+Usuario: Usuario registrado (local o turista).
+Objetivo: Guardar una exposición de arte para revisarla posteriormente y recibir recordatorios.
+Contexto: El usuario explora la plataforma después de haber creado previamente una cuenta.
+Secuencia de interacción
+1.	El usuario inicia sesión en la plataforma.
+2.	Navega por el listado principal de eventos y selecciona una exposición de arte de su interés.
+3.	Presiona el botón Guardar Evento / Agregar a Favoritos.
+4.	El sistema confirma la acción y almacena la actividad en el perfil personal del usuario.
+Resultado esperado: El evento se almacena exitosamente en el panel del usuario para su consulta rápida y se habilita la posibilidad de recibir avisos por correo electrónico.
+
+Escenario 5. Navegación e interacción con el mapa interactivo
+Usuario: Visitante sin registro o usuario registrado.
+Objetivo: Explorar los eventos activos distribuidos geográficamente en las calles del Casco Antiguo.
+Contexto: Un turista se encuentra caminando por la zona histórica y desea conocer qué actividades o comercios cercanos tienen eventos disponibles en ese momento.
+Secuencia de interacción
+1.	El usuario accede al sitio web desde su teléfono móvil.
+2.	Ingresa a la sección Mapa del Casco.
+3.	El sistema despliega el mapa interactivo y carga los marcadores geolocalizados correspondientes a las ubicaciones activas.
+4.	El usuario selecciona un pin ubicado, por ejemplo, en Plaza Francia o Plaza Catedral.
+5.	El sistema muestra una ventana emergente (popup) con información resumida del evento:
+a.	Imagen
+b.	Hora
+c.	Categoría
+d.	Enlace
+6.	El usuario selecciona la tarjeta para acceder a la ficha completa del evento.
+Resultado esperado: El usuario puede identificar qué eventos se están desarrollando a pocos metros de su ubicación mediante la referencia geográfica proporcionada por el mapa.
+
+Escenario 6. Gestión de usuarios y categorías
+Usuario: Administrador de la plataforma.
+Objetivo: Registrar un nuevo comercio local como organizador autorizado y crear una nueva categoría de eventos.
+Contexto: Un nuevo restaurante del Casco Antiguo solicita acceso a la plataforma para promocionar sus noches de jazz.
+Secuencia de interacción
+1.	El administrador ingresa a su Panel de Administración.
+2.	Accede al módulo Gestión de Usuarios.
+3.	Crea la cuenta correspondiente al comercio y le asigna el rol de Organizador.
+4.	Accede al módulo Gestión de Categorías.
+5.	Añade una nueva categoría denominada “Gastronomía y Maridaje”.
+6.	Guarda los cambios realizados.
+Resultado esperado: El nuevo comercio recibe sus credenciales de acceso mediante correo electrónico y la plataforma actualiza inmediatamente el catálogo de filtros, incorporando la nueva categoría.
+
+Escenario 7. Cancelación o modificación de un evento y actualización automática
+Usuario: Organizador de eventos / Sistema.
+Objetivo: Notificar la reprogramación o cancelación de un evento debido a circunstancias imprevistas, como condiciones climáticas.
+Contexto: Debido a la lluvia, un evento al aire libre programado en la Plaza Bolívar debe ser cancelado o reprogramado.
+Secuencia de interacción
+1.	El organizador ingresa a su panel de control.
+2.	Accede a la sección Mis Eventos y selecciona la actividad programada.
+3.	Selecciona la opción Editar / Desactivar Evento.
+4.	Cambia el estado del evento a “Cancelado” o modifica la fecha y horario correspondientes.
+5.	Guarda los cambios.
+6.	El sistema actualiza automáticamente la información disponible en la interfaz pública.
+Resultado esperado: La ficha del evento deja de estar visible cuando corresponde a un evento cancelado o refleja inmediatamente la nueva información cuando ha sido reprogramado, evitando desplazamientos innecesarios por parte de los usuarios.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
